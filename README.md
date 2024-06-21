@@ -9,5 +9,5 @@ The code for **Improving Diversity and Invariance for Single Domain Generalizati
 
 # Train
 - First, run the command `sh run_base.sh 0 0`. The command will train the base network.
-- Then, run the command `sh run_my.sh 0 0`. The command will train the DAI, CIRL, CACE-ND and CSDG.
+- Then, run the command `sh run_my.sh 0 0`. The command will train the **DAI, CIRL, CACE-ND and CSDG**.
 
